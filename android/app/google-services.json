@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388871201510",
+    "project_id": "tubes-kripto-ab756",
+    "storage_bucket": "tubes-kripto-ab756.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388871201510:android:03e692d2ff7851025d9127",
+        "android_client_info": {
+          "package_name": "com.example.tubes_kripto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUE4qvOIO9B4Wmj_YLn-k-xu7h9r9jQgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
